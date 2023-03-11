@@ -9,7 +9,7 @@ from openai.error import RateLimitError, InvalidRequestError
 CHECK_KEY = "check_key_lskJHjf32"
 
 env = {
-    **dotenv_values("/home/ChatGPT_telegram_bot/.env.prod"),
+    **dotenv_values("~/telegram_math_bot/.env.prod"),
     **dotenv_values(".env.dev"),  # override
 }
 
