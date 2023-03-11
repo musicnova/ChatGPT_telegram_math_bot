@@ -1,6 +1,10 @@
 # ChatGPT_math
 Telegram bot with ChatGPT model by OpenAI (Example running here https://t.me/chatgpt_telegram_math_bot)
 
+
+README: https://vc.ru/u/1389654-machine-learning/576592-instrukciya-kak-ispolzovat-chatgpt-s-python
+
+
 How to deploy:
 ```
 useradd -m tele1
